@@ -148,3 +148,4 @@ I'm interested in connecting with people working in AI, machine learning, AI tra
 📧 Email: wilczaypiotr@gmail.com
 
 📍 New Jersey, USA
+---
