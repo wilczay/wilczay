@@ -102,6 +102,8 @@ I believe effective AI training requires both **technical understanding and care
 
 ## 🚀 What I'm Building & Exploring
 
+I'm interested in building and exploring projects at the intersection of **AI, machine learning, AI training, and software engineering**.
+
 ```text
 Artificial Intelligence
         │
@@ -124,28 +126,3 @@ Artificial Intelligence
                ├── Python
                ├── TypeScript
                └── JavaScript
----
-## 📈 Areas of Interest
-
-I'm especially interested in opportunities involving:
-
-AI Training
-AI Evaluation
-Machine Learning
-LLM Evaluation
-AI Data Annotation
-AI Quality Assurance
-Natural Language Processing
-Computer Vision
-Data Analysis
-Machine Learning Engineering
-AI-powered applications
-Developer tools and automation
-🤝 Let's Connect
-
-I'm interested in connecting with people working in AI, machine learning, AI training, data, and software engineering.
-
-📧 Email: wilczaypiotr@gmail.com
-
-📍 New Jersey, USA
----
