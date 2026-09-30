@@ -124,7 +124,7 @@ Artificial Intelligence
                ├── Python
                ├── TypeScript
                └── JavaScript
-📈 Areas of Interest
+## 📈 Areas of Interest
 
 I'm especially interested in opportunities involving:
 
