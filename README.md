@@ -102,27 +102,86 @@ I believe effective AI training requires both **technical understanding and care
 
 ## 🚀 What I'm Building & Exploring
 
-I'm interested in building and exploring projects at the intersection of **AI, machine learning, AI training, and software engineering**.
+I'm interested in building and exploring projects at the intersection of:
 
-```text
-Artificial Intelligence
-        │
-        ├── Machine Learning
-        │      ├── Deep Learning
-        │      ├── NLP
-        │      └── Computer Vision
-        │
-        ├── AI Training
-        │      ├── Data Labeling
-        │      ├── Classification
-        │      └── Model Evaluation
-        │
-        ├── AI Quality
-        │      ├── Output Evaluation
-        │      ├── Error Detection
-        │      └── Structured Feedback
-        │
-        └── Software Engineering
-               ├── Python
-               ├── TypeScript
-               └── JavaScript
+- 🤖 **Artificial Intelligence**
+- 🧠 **Machine Learning**
+- 🏷️ **AI Training & Data Labeling**
+- 🔍 **AI Model Evaluation**
+- 📊 **AI Quality & Data Analysis**
+- 💻 **Software Engineering**
+
+### Current Technical Areas
+
+**Machine Learning**
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Neural Networks
+
+**AI Training**
+- Data Labeling
+- Text Classification
+- Model Evaluation
+- AI Output Assessment
+
+**AI Quality**
+- Error Detection
+- Output Evaluation
+- Quality Assurance
+- Structured Feedback
+
+**Software Engineering**
+- Python
+- TypeScript
+- JavaScript
+- AI-powered applications
+- Automation and developer tools
+
+---
+
+## 📈 Areas of Interest
+
+My professional and technical interests include:
+
+### 🤖 AI & Model Evaluation
+
+- AI Training
+- AI Evaluation
+- LLM Evaluation
+- AI Data Annotation
+- AI Quality Assurance
+- Model Output Analysis
+- AI Reliability
+
+### 🧠 Machine Learning
+
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Analysis
+- Model Performance Optimization
+
+### 💻 Software & Development
+
+- Python Development
+- TypeScript
+- JavaScript
+- AI-powered Applications
+- Developer Tools
+- Workflow Automation
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in connecting with people working in **AI, machine learning, AI training, data, and software engineering**.
+
+📧 **Email:** wilczaypiotr@gmail.com
+
+📍 **New Jersey, USA**
+
+---
+
+> *Building better AI requires both better technology and better feedback.*
